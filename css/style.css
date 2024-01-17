@@ -393,6 +393,7 @@ max-width: 25%;
   width: 90%;
   flex-wrap: wrap;
   justify-content: center;
+  margin-top: 100px;
 } 
 .portfolio p{
   margin-top: -30px;
@@ -402,12 +403,12 @@ max-width: 25%;
 }
 .pdf-container {
   position: relative;
-  width: 300px; /* Adjust the width as needed */
-  height: 200px; /* Adjust the height as needed */
-  margin-bottom: 20px; /* Spacing between each PDF */
-  border: 1px solid #ddd; /* Optional border for visibility */
-  box-sizing: border-box; /* This ensures padding and border are included in the width/height */
-  overflow: hidden; /* This ensures nothing spills out of the container */
+  width: 300px; 
+  height: 250px; 
+  margin-bottom: 20px;
+  border: 1px solid #ddd; 
+  box-sizing: border-box; 
+  overflow: hidden; 
   margin: 20px;
 }
 
@@ -443,6 +444,7 @@ max-width: 25%;
   justify-content: center;
   align-items: center;
   height: 100vh;
+  margin-top: 150px;
 }
 
 .pdfdoc-object {
