@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <a href="portfolio.html" class="logo">Bryan.</a>
+        <a href="index.html" class="logo">Bryan.</a>
         <nav>
             <a href="#jaar1" class="jaar1">Jaar 1</a>
         </nav>
