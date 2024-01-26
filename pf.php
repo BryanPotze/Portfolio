@@ -32,6 +32,11 @@
                 ?>
        </div>
             </section>
+            <footer>
+      <div class="footer">
+         © 2024 Bryan Potze.
+      </div>
+    </footer>
     <script src="portfolio.js"></script>
 </body>
 </html>
